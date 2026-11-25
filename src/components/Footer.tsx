@@ -15,7 +15,7 @@ const socialLinks = [
   {
     name: "Email",
     icon: Mail,
-    url: "mailto:abhishek@codewithabhishek.in",
+    url: "mailto:buildwithabhishek.k@gmail.com",
   },
 ];
 
@@ -49,7 +49,7 @@ export const Footer = () => {
               href="#home"
               className="font-display text-2xl font-bold gradient-text inline-block"
             >
-              CodeWithAbhishek
+              BuildWithAbhishek
             </a>
             <p className="text-muted-foreground leading-relaxed max-w-xs">
               Backend engineer designing systems for correctness under
@@ -110,7 +110,7 @@ export const Footer = () => {
         {/* Bottom */}
         <div className="pt-8 border-t border-border/50 text-center">
           <p className="text-muted-foreground text-sm">
-            © 2026 CodeWithAbhishek. All rights reserved.
+            © 2026 BuildWithAbhishek. All rights reserved.
           </p>
         </div>
       </div>

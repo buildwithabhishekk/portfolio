@@ -121,7 +121,7 @@ export const Preloader = ({ onComplete }: PreloaderProps) => {
               isExiting ? 'opacity-0 scale-95' : 'opacity-100 scale-100'
             )}
           >
-            CodeWith<br/>Abhishek
+            BuildWith<br/>Abhishek
           </h1>
           <span 
             className={cn(

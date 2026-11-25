@@ -12,8 +12,8 @@ const contactLinks = [
   {
     name: "Email",
     icon: Mail,
-    label: "abhishek@codewithabhishek.in",
-    url: "mailto:abhishek@codewithabhishek.in",
+    label: "buildwithabhishek.k@gmail.com",
+    url: "mailto:buildwithabhishek.k@gmail.com",
     description: "Best for role discussions and project enquiries",
   },
   {

@@ -83,7 +83,7 @@ export const Header = () => {
             className="flex items-center gap-2 font-display text-xl md:text-2xl font-bold gradient-text"
           >
             <Code2 className="w-5 h-5 md:w-6 md:h-6" />
-            <span>CodeWithAbhishek</span>
+            <span>BuildWithAbhishek</span>
           </a>
 
           {/* Desktop Navigation */}
